@@ -1,9 +1,9 @@
 /* ===== إعدادات منصة الاختبارات — عدّل هنا فقط ===== */
 window.CFG = {
-  SCRIPT_URL: "",   // ← رابط Google Apps Script الذي ينتهي بـ /exec (اتركه فارغاً للتجربة المحلية)
+  SCRIPT_URL: "https://script.google.com/macros/s/AKfycby_TUgh135N-qc6n_qgT1BnQbvyieiue1pX219_YdY_PAJAODMJaSSR1PJfdeuQkNWX/exec",   // ← رابط Google Apps Script الذي ينتهي بـ /exec (اتركه فارغاً للتجربة المحلية)
   OFFICE: "مكتب الأولمبياد العلمي السوري بدرعا",
   ENGINEER: "المهندس أسامة الصلخدي",
-  SUBJECT: "الرياضيات"   // ← اسم الاختصاص (يظهر في الترويسة): الرياضيات / المعلوماتية / ...
+  SUBJECT: "كيمياء"   // ← اسم الاختصاص (يظهر في الترويسة): الرياضيات / المعلوماتية / ...
 };
 
 /* الاختبارات تُضاف من لوحة التحكم (admin.html) باستيراد ملف HTML، فلا حاجة لتعديل هذا الملف.
